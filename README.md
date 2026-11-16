@@ -3,7 +3,7 @@
 Geospatial researcher working with GIS, SAR and optical remote sensing, UAV photogrammetry and Python-based spatial analysis for environmental monitoring.
 
 ### Current work
-- **NISAR L- and S-band SAR + GEDI LiDAR for above-ground biomass retrieval** in the Western Ghats, Kerala. Random Forest modelling on steep terrain (slopes up to 69°) with field-plot validation. IUCGIST, University of Kerala.
+- **NISAR L- and S-band SAR for above-ground biomass mapping**, Attappady, Western Ghats, Kerala (IUCGIST, University of Kerala). 830 km² study area; 17-plot field inventory sited from GEDI L4A footprints; regression on L- and S-band HV backscatter and slope (slopes up to 69°), benchmarked against eight machine-learning models, with per-pixel uncertainty.
 
 ### Previous work
 - **UAV photogrammetric canopy height modelling and carbon stock estimation** (MSc, Central University of Punjab). RTK vs non-RTK DEM accuracy, point-cloud tree segmentation and density-dependent CHM accuracy.
